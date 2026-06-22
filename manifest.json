@@ -1,12 +1,12 @@
 {
   "name": "Hanzi Karteikarten",
   "short_name": "Hanzi Karten",
-  "description": "3-Seiten-Karteikarten für chinesische Hanzi mit Paketen, Fehlertraining und deutschem Abfragemodus.",
+  "description": "Mobile PWA für chinesische Hanzi-Karteikarten mit Paketen und Fehlertraining.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f6f3ee",
-  "theme_color": "#b91c1c",
+  "background_color": "#fff7ed",
+  "theme_color": "#fff7ed",
   "orientation": "portrait",
   "icons": [
     {
